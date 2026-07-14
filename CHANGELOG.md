@@ -1,8 +1,8 @@
-# Changelog
+# 📜 Changelog
 
 All notable changes to Champion OS will be documented in this file. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions follow [SemVer](https://semver.org/).
 
-## [0.1.0] — 2026-07-14
+## [0.1.0] - 2026-07-14
 
 Initial open-source release.
 
