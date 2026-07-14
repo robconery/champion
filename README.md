@@ -1,5 +1,7 @@
 # 🏆 Champion OS
 
+> Champion OS is a free tool from **[The AI Pro](https://ai.bigmachine.io)** — [Rob Conery's](https://bigmachine.io) community for developers building a career *with* AI: courses, live sessions, workshops, and a place to compare notes with people doing the same work. **[Join us at ai.bigmachine.io →](https://ai.bigmachine.io)**
+
 **An accountability mirror for your professional life.** A council of adversarial advisors, run inside [Claude Code](https://claude.com/claude-code), that tells you what you need to know instead of what you want to hear.
 
 It is not a yes-machine, and it is not therapy. Bring it an idea, a job offer, a negotiation, a draft, or a pull request, and it renders an honest verdict measured against two questions:
@@ -62,6 +64,18 @@ Your dossier is the most personal file set you'll ever hand a tool: your fears, 
 
 The one law of this codebase: **the engine is generic; the dossier is personal; no personal fact ever lives in the engine.** Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 
+## 🚀 Want more like this?
+
+Champion OS came out of **[The AI Pro](https://ai.bigmachine.io)**, my community for developers who want to build a career with AI instead of getting flattened by it. Inside you'll find:
+
+- **Courses** like [*AI for Developers With Deadlines*](https://ai.bigmachine.io/c/ai-for-developers-with-deadlines) and [*Working with Large Codebases*](https://ai.bigmachine.io/c/working-with-large-codebases) — practical, ship-it material, not slideware.
+- **Live sessions, workshops, and cohorts** where we build things like this plugin together.
+- **Daily practice**: field notes, AI news that matters, and a room full of people to show your work to.
+
+If the council just told you something you needed to hear, that's the whole idea. There's more where this came from.
+
+**[Join The AI Pro at ai.bigmachine.io →](https://ai.bigmachine.io)**
+
 ## 📄 License
 
-[MIT](LICENSE) © Rob Conery
+[MIT](LICENSE) © [Rob Conery](https://bigmachine.io)
