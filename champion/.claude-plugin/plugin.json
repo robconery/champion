@@ -1,0 +1,13 @@
+{
+  "name": "champion",
+  "displayName": "Champion OS",
+  "version": "0.1.0",
+  "description": "An accountability mirror: a council of adversarial advisors that tells you what you need to know, not what you want to hear. A setup interview builds your dossier; then gauntlets for decisions, negotiation prep, voice-led writing and video, and PR trials — all aligned to your north star.",
+  "author": {
+    "name": "Rob Conery"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/robconery/champion",
+  "homepage": "https://github.com/robconery/champion",
+  "keywords": ["accountability", "decision-making", "council", "gauntlet", "negotiation", "writing", "career", "code-review"]
+}

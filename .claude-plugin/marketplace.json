@@ -1,0 +1,13 @@
+{
+  "name": "champion-marketplace",
+  "owner": {
+    "name": "Rob Conery"
+  },
+  "plugins": [
+    {
+      "name": "champion",
+      "source": "./champion",
+      "description": "An accountability mirror: an adversarial council for professional decisions, negotiations, and voice-led creation. Run /champion:setup first."
+    }
+  ]
+}
